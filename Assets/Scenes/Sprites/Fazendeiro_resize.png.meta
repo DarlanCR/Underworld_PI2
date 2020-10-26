@@ -1,0 +1,632 @@
+fileFormatVersion: 2
+guid: eb44e387b0789a9448b0f1aae78f4093
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6876616648263564969
+    second: Fazendeiro_resize_0
+  - first:
+      213: 5779519204972281701
+    second: Fazendeiro_resize_1
+  - first:
+      213: 4515706819398422948
+    second: Fazendeiro_resize_2
+  - first:
+      213: -3476104465073831427
+    second: Fazendeiro_resize_3
+  - first:
+      213: 8180629142120835632
+    second: Fazendeiro_resize_4
+  - first:
+      213: 385654173156679718
+    second: Fazendeiro_resize_5
+  - first:
+      213: 5936728220397031659
+    second: Fazendeiro_resize_6
+  - first:
+      213: 5232540998470686849
+    second: Fazendeiro_resize_7
+  - first:
+      213: 8658190910410113017
+    second: Fazendeiro_resize_8
+  - first:
+      213: -8328888541136786118
+    second: Fazendeiro_resize_9
+  - first:
+      213: 3689674795320008073
+    second: Fazendeiro_resize_10
+  - first:
+      213: -5549135944840846978
+    second: Fazendeiro_resize_11
+  - first:
+      213: 828994771221247483
+    second: Fazendeiro_resize_12
+  - first:
+      213: -6810406675765203218
+    second: Fazendeiro_resize_13
+  - first:
+      213: 694959051561420531
+    second: Fazendeiro_resize_14
+  - first:
+      213: 170265084779314435
+    second: Fazendeiro_resize_15
+  - first:
+      213: 2694841070596406250
+    second: Fazendeiro_resize_16
+  - first:
+      213: -7753697297839416012
+    second: Fazendeiro_resize_17
+  - first:
+      213: 7096315604413428601
+    second: Fazendeiro_resize_18
+  - first:
+      213: 7585511981015221006
+    second: Fazendeiro_resize_19
+  - first:
+      213: 8921775690629556309
+    second: Fazendeiro_resize_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fazendeiro_resize_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 248
+        width: 47
+        height: 62
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae79406866ae6f50800000000000000
+      internalID: 6876616648263564969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fazendeiro_resize_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 248
+        width: 47
+        height: 62
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fbbe0881af43050800000000000000
+      internalID: 5779519204972281701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fazendeiro_resize_2
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 248
+        width: 47
+        height: 62
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a15d005d630bae30800000000000000
+      internalID: 4515706819398422948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fazendeiro_resize_3
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 248
+        width: 47
+        height: 62
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1002df76562cfc0800000000000000
+      internalID: -3476104465073831427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fazendeiro_resize_4
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 248
+        width: 47
+        height: 62
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a2257acde678170800000000000000
+      internalID: 8180629142120835632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fazendeiro_resize_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 186
+        width: 47
+        height: 62
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620a62d5d6e1a5500800000000000000
+      internalID: 385654173156679718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fazendeiro_resize_6
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 186
+        width: 47
+        height: 62
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be05dc0ccde736250800000000000000
+      internalID: 5936728220397031659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fazendeiro_resize_7
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 186
+        width: 47
+        height: 62
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188538e9058bd9840800000000000000
+      internalID: 5232540998470686849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fazendeiro_resize_8
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 186
+        width: 47
+        height: 62
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffb28c82c2182870800000000000000
+      internalID: 8658190910410113017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fazendeiro_resize_9
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 186
+        width: 47
+        height: 62
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d68bb0008d96c80800000000000000
+      internalID: -8328888541136786118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fazendeiro_resize_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 124
+        width: 47
+        height: 62
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98dd2c77dab543330800000000000000
+      internalID: 3689674795320008073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fazendeiro_resize_11
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 124
+        width: 47
+        height: 62
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71e86d32428df2b0800000000000000
+      internalID: -5549135944840846978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fazendeiro_resize_12
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 124
+        width: 47
+        height: 62
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf57c4b2a5e218b00800000000000000
+      internalID: 828994771221247483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fazendeiro_resize_13
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 124
+        width: 47
+        height: 62
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeee01326339c71a0800000000000000
+      internalID: -6810406675765203218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fazendeiro_resize_14
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 124
+        width: 47
+        height: 62
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6c2c9439df4a900800000000000000
+      internalID: 694959051561420531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fazendeiro_resize_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 47
+        height: 62
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d3ce74137ec5200800000000000000
+      internalID: 170265084779314435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fazendeiro_resize_16
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 62
+        width: 47
+        height: 62
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb38030daff56520800000000000000
+      internalID: 2694841070596406250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fazendeiro_resize_17
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 62
+        width: 47
+        height: 62
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d10627365556490800000000000000
+      internalID: -7753697297839416012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fazendeiro_resize_18
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 62
+        width: 47
+        height: 62
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973bf1fb17d2b7260800000000000000
+      internalID: 7096315604413428601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fazendeiro_resize_19
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 62
+        width: 47
+        height: 62
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03c1ebf4f6254960800000000000000
+      internalID: 7585511981015221006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fazendeiro_resize_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 47
+        height: 62
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558a0b598b380db70800000000000000
+      internalID: 8921775690629556309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
