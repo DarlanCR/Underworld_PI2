@@ -6,6 +6,7 @@ TagManager:
   tags:
   - enemy
   - caiuMorreu
+  - passaFase2
   layers:
   - Default
   - TransparentFX

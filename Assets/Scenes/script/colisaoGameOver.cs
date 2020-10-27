@@ -20,20 +20,30 @@ public class colisaoGameOver : MonoBehaviour
         
     }
 
-    private void OnCollisionEnter2D(Collision2D collision) 
+    private void OnColliderEnter2D(Collider2D other) 
     {
-        if(collision.gameObject.CompareTag("caiuMorreu"))
-        {
-            SceneManager.LoadScene("GamerOver", LoadSceneMode.Additive);            
-        }
-        if(collision.gameObject.CompareTag("enemy"))
+        if(other.gameObject.CompareTag("caiuMorreu"))
         {
             if(life <=0)
             {
                 Destroy(gameObject);
-                SceneManager.LoadScene("GamerOver", LoadSceneMode.Additive);
+                SceneManager.LoadScene(0);
             }else{
                 life = life - 1 ;
+                SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+            }
+                        
+        }
+        if(other.gameObject.CompareTag("enemy"))
+        {
+            if(life <=0)
+            {
+                Destroy(gameObject);
+                SceneManager.LoadScene(0);
+                
+            }else{
+                life = life - 1 ;
+                SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
             }
             
         }

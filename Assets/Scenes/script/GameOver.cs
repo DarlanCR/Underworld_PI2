@@ -18,7 +18,7 @@ public class GameOver : MonoBehaviour
     {
         if(Input.anyKey)
         {
-            SceneManager.LoadScene("fase1");
+            SceneManager.LoadScene(1);
         }
     }
 }
